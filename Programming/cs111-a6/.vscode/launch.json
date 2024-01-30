@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WeatherGenerator",
+            "request": "launch",
+            "mainClass": "WeatherGenerator",
+            "projectName": "cs111-a6_beef1c17"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdIn",
+            "request": "launch",
+            "mainClass": "StdIn",
+            "projectName": "cs111-a6_ad2cc5dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdOut",
+            "request": "launch",
+            "mainClass": "StdOut",
+            "projectName": "cs111-a6_ad2cc5dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdRandom",
+            "request": "launch",
+            "mainClass": "StdRandom",
+            "projectName": "cs111-a6_ad2cc5dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch WeatherGenerator",
+            "request": "launch",
+            "mainClass": "WeatherGenerator",
+            "projectName": "cs111-a6_ad2cc5dc",
+            "args": "-79.32 36.37 0"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "cs111-a6_ad2cc5dc"
+        }
+    ]
+}
